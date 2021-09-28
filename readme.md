@@ -1,7 +1,8 @@
+O presente projeto foi desenvolvido como atividade para a disciplina de Sistemas Operacionais (turma 2021.1) do curso de Engenharia de Computação da Universidade Tecnológica Federal do Paraná, campus Toledo.
+
+========================================================
+
 Você foi contratado para automatizar (simular) um treino de Fórmula 1. 
-
-
-
 Os  requisitos estabelecidos pela direção do treino são as seguintes:
 
 ========================================================
@@ -93,8 +94,3 @@ Quando um carro sair, mostrar:
 OBS: Sugere-se implementar um recurso para  “ligar/desligar” a geração do arquivo de log em arquivo de texto ao realizar a demonstração em sala, pois isso interfere nos tempos e resultados (fica pesado e lento).
 
 ========================================================
-
-
-a) Realize o upload de todos os arquivos fonte de código criados para a simulação deste treino (.c, .h .cpp, .java, etc). Pode ser em um arquivo compactado em formato zip  (não usar winrar nem outros formatos).
-
-b) Realize o upload de um arquivo com a saída da simulação gerada em formato texto (como se fosse um log de saída), contendo os dados de saída solicitados anteriormente. Deve ser colocado em arquivo compactado em formato .zip (não usar winrar nem outros formatos).
